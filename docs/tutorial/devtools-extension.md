@@ -4,7 +4,6 @@ Electron supports [Chrome DevTools extensions][devtools-extension], which can
 be used to extend the ability of Chrome's developer tools for debugging
 popular web frameworks.
 
-## Loading a DevTools extension with tooling
 
 The easiest way to load a DevTools extension is to use third-party tooling to automate the
 process for you. [electron-devtools-installer][electron-devtools-installer] is a popular
