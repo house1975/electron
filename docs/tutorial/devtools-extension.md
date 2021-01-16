@@ -11,9 +11,7 @@ NPM package that does just that.
 
 
 If you don't want to use the tooling approach, you can also do all of the necessary
-operations by hand. To load an extension in Electron, you need to download it via Chrome,
-locate its filesystem path, and then load it into your [Session][session] by calling the
-[`ses.loadExtension`] API.
+Using the [React Developer Tools][react-devtools] as example:
 
 Using the [React Developer Tools][react-devtools] as an example:
 
