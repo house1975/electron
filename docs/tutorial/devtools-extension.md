@@ -9,7 +9,6 @@ The easiest way to load a DevTools extension is to use third-party tooling to au
 process for you. [electron-devtools-installer][electron-devtools-installer] is a popular
 NPM package that does just that.
 
-## Manually loading a DevTools extension
 
 If you don't want to use the tooling approach, you can also do all of the necessary
 operations by hand. To load an extension in Electron, you need to download it via Chrome,
