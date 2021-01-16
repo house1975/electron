@@ -13,7 +13,6 @@ NPM package that does just that.
 Using the [React Developer Tools][react-devtools] as example:
 
 Using the [React Developer Tools][react-devtools] as an example:
-
 1. Install the extension in Google Chrome.
 1. Navigate to `chrome://extensions`, and find its extension ID, which is a hash
    string like `fmkadmapgofadopljbjfkapdkoienihi`.
