@@ -10,7 +10,6 @@ process for you. [electron-devtools-installer][electron-devtools-installer] is a
 NPM package that does just that.
 
 
-If you don't want to use the tooling approach, you can also do all of the necessary
 Using the [React Developer Tools][react-devtools] as example:
 
 Using the [React Developer Tools][react-devtools] as an example:
