@@ -14,7 +14,6 @@ Using the [React Developer Tools][react-devtools] as example:
 
 1. Navigate to `chrome://extensions`, and find its extension ID, which is a hash
    string like `fmkadmapgofadopljbjfkapdkoienihi`.
-1. Find out the filesystem location used by Chrome for storing extensions:
    * on Windows it is `%LOCALAPPDATA%\Google\Chrome\User Data\Default\Extensions`;
    * on Linux it could be:
      * `~/.config/google-chrome/Default/Extensions/`
