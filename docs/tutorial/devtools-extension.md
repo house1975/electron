@@ -16,6 +16,7 @@ locate its filesystem path, and then load it by calling the
 
 Using the [React Developer Tools][react-devtools] as example:
 
+1. Install it in Chrome browser.
 1. Navigate to `chrome://extensions`, and find its extension ID, which is a hash
    string like `fmkadmapgofadopljbjfkapdkoienihi`.
    * on Windows it is `%LOCALAPPDATA%\Google\Chrome\User Data\Default\Extensions`;
