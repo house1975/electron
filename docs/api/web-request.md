@@ -96,7 +96,6 @@ Some examples of valid `urls`:
     * `url` String
     * `method` String
     * `webContentsId` Integer (optional)
-    * `frame` WebFrameMain (optional)
     * `resourceType` String
     * `referrer` String
     * `timestamp` Double
