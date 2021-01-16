@@ -12,6 +12,7 @@ NPM package that does just that.
 
 To load an extension in Electron, you need to download it in Chrome browser,
 locate its filesystem path, and then load it by calling the
+`BrowserWindow.addDevToolsExtension(extension)` API.
 
 Using the [React Developer Tools][react-devtools] as example:
 
